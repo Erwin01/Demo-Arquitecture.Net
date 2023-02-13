@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Arquitecture.Infraestructure.Interface/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Aplication.DTO": "1.0.0",
+          "Demo.Arquitecture.Domain.Entity": "1.0.0",
+          "Demo.Arquitecture.Domain.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Infraestructure.Interface.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Aplication.DTO.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Aplication.Interface/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Aplication.DTO": "1.0.0",
+          "Demo.Arquitecture.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Aplication.Interface.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Domain.Entity.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Aplication.DTO": "1.0.0",
+          "Demo.Arquitecture.Aplication.Interface": "1.0.0",
+          "Demo.Arquitecture.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Domain.Interface.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Arquitecture.Infraestructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Aplication.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
