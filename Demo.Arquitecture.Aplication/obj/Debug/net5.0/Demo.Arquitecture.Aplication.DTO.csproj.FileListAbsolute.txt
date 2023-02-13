@@ -1,0 +1,15 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\ref\Demo.Arquitecture.Aplication.DTO.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\ref\Demo.Arquitecture.Aplication.DTO.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Aplication\obj\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.csproj.CopyComplete

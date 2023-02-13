@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Aplication.DTO.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
