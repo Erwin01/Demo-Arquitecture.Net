@@ -1,0 +1,17 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\ref\Demo.Arquitecture.Infraestructure.Data.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.csproj.CopyComplete
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\ref\Demo.Arquitecture.Infraestructure.Data.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Infraestructure.Data\obj\Debug\net5.0\Demo.Arquitecture.Infraestructure.Data.pdb
