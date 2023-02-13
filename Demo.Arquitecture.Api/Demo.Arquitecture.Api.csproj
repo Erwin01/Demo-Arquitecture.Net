@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Arquitecture.Aplication.Interface\Demo.Arquitecture.Aplication.Interface.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Aplication.Main\Demo.Arquitecture.Aplication.Main.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Domain.Core\Demo.Arquitecture.Domain.Core.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Infraestructure.Interface\Demo.Arquitecture.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Infraestructure.Repository\Demo.Arquitecture.Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Transversal.Logging\Demo.Arquitecture.Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Transversal.Mapper\Demo.Arquitecture.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>
