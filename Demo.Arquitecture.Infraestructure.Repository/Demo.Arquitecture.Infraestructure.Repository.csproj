@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.Arquitecture.Aplication\Demo.Arquitecture.Aplication.DTO.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Infraestructure.Data\Demo.Arquitecture.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Infraestructure.Interface\Demo.Arquitecture.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Demo.Arquitecture.Transversal.Common\Demo.Arquitecture.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
