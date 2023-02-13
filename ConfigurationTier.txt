@@ -1,0 +1,155 @@
+
+
+														STRUCTURE OF DEPENDENCIES
+
+
+APPLICATION LAYER
+
+Demo.Arquitecture.Aplication.DTO
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+System.ComponentModel.Annotations
+
+- Demo.Arquitecture.Domain.Entity
+
+
+Demo.Arquitecture.Aplication.Interface
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Transversal.Common
+
+
+Demo.Arquitecture.Aplication.Main
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Aplication.Interface
+- Demo.Arquitecture.Domain.Entity
+- Demo.Arquitecture.Domain.Interface
+- Demo.Arquitecture.Infraestructure.Repository
+- Demo.Arquitecture.Transversal.Common
+
+
+
+
+DOMAIN LAYER
+
+Demo.Arquitecture.Domain.Core
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+Microsoft.AspNetCore.EntityFrameworkCore.Abstractions
+System.ComponentModel.Annotations
+
+- Demo.Arquitecture.Domain.Interface
+- Demo.Arquitecture.Infraestructure.Data
+- Demo.Arquitecture.Infraestructure.Interface
+
+
+Demo.Arquitecture.Domain.Entity
+- EMPTY
+
+
+Demo.Arquitecture.Domain.Interface
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Aplication.Interface
+- Demo.Arquitecture.Domain.Entity
+
+
+
+
+INFRAESTRUCTURE LAYER
+
+Demo.Arquitecture.Infraestructure.Data
+Install package:
+AutoMapper
+Dapper
+Microsoft.AspNetCore.Authentication
+Microsoft.AspNetCore.EntityFrameworkCore
+Microsoft.AspNetCore.EntityFrameworkCore.SqlServer
+Microsoft.AspNetCore.EntityFrameworkCore.Tools
+Microsoft.Extensions.Configuration
+System.Data.SqlClient
+
+- Demo.Arquitecture.Domain.Entity
+- Demo.Arquitecture.Transversal.Common
+
+
+Demo.Arquitecture.Infraestructure.Interface
+Install package:
+Automapper
+Dapper
+Microsoft.AspNetCore.Authentication
+
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Domain.Entity
+- Demo.Arquitecture.Domain.Interface
+
+
+Demo.Arquitecture.Infraestructure.Repository
+Install package:
+Automapper
+BCrypt.Net-Next
+Dapper
+Microsoft.AspNetCore.Authentication
+
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Infraestructure.Data
+- Demo.Arquitecture.Infraestructure.Interface
+- Demo.Arquitecture.Transversal.Common
+
+
+
+
+SERVICE LAYER
+
+Demo.Arquitecture.Api
+Install package: 
+Automapper
+Automapper.Entensions.Microsoft.DependencyInjection
+Microsoft.AspNetCore.Cors
+Microsoft.AspNetCore.Mvc.Versioning
+Microsoft.AspNetCore.EntityFrameworkCore.Design
+Serilog.Entensions.Logging.File
+Swashbuckle.AspNetCore
+
+- Demo.Arquitecture.Aplication.Interface
+- Demo.Arquitecture.Aplication.Main
+- Demo.Arquitecture.Domain.Core
+- Demo.Arquitecture.Infraestructure.Interface
+- Demo.Arquitecture.Infraestructure.Repository
+- Demo.Arquitecture.Transversal.Logging
+- Demo.Arquitecture.Transversal.Mapper
+
+
+
+
+TRANSVERSAL LAYER
+Install package: Automapper
+
+Demo.Arquitecture.Transversal.Common
+- EMPTY
+
+Demo.Arquitecture.Transversal.Logging
+Install package: Microsoft.Extensions.Logging
+
+- Demo.Arquitecture.Transversal.Common
+
+Demo.Arquitecture.Transversal.Mapper
+- Demo.Arquitecture.Aplication.DTO
+- Demo.Arquitecture.Domain.Entity
