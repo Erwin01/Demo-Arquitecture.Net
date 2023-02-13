@@ -1,0 +1,12 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\bin\Debug\net5.0\ref\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\ref\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Domain.Entity\obj\Debug\net5.0\Demo.Arquitecture.Domain.Entity.pdb
