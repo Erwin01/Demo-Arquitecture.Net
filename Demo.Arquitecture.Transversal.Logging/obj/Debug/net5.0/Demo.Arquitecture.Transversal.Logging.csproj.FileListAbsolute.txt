@@ -1,0 +1,15 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Logging.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.csproj.CopyComplete
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Logging.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Logging\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Logging.pdb
