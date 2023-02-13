@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Arquitecture.Transversal.Mapper/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Aplication.DTO": "1.0.0",
+          "Demo.Arquitecture.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Transversal.Mapper.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+        "dependencies": {
+          "Demo.Arquitecture.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Arquitecture.Aplication.DTO.dll": {}
+        }
+      },
+      "Demo.Arquitecture.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Arquitecture.Transversal.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Aplication.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Arquitecture.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

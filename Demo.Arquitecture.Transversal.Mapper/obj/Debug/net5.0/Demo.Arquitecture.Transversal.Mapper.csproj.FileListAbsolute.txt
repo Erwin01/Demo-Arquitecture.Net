@@ -1,0 +1,17 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Mapper.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Aplication.DTO.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\bin\Debug\net5.0\Demo.Arquitecture.Domain.Entity.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.csproj.CopyComplete
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Mapper.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Mapper\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Mapper.pdb
