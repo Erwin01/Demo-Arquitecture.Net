@@ -1,0 +1,12 @@
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.deps.json
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\bin\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\bin\Debug\net5.0\Demo.Arquitecture.Transversal.Common.pdb
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\ref\Demo.Arquitecture.Transversal.Common.dll
+C:\Development2022\ApplicationFull\Arquitecture Demo\Demo.ArquitectureNet\Demo.Arquitecture.Transversal.Common\obj\Debug\net5.0\Demo.Arquitecture.Transversal.Common.pdb

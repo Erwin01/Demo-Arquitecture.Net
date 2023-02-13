@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo.Arquitecture.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Demo.Arquitecture.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Arquitecture.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
